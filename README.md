@@ -1,3 +1,5 @@
+# DATE :
+# EXP NO : 7
 # Norm of a matrix
 
 ## Aim
@@ -19,8 +21,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 ```Python
 
-# Register No: 22008051
-# Developed By: P. Sri Varshan
+# Register No: 212223230246
+# Developed By: M VIRUMAA HARISH
 
 # 1-Norm of a Matrix
 
@@ -58,16 +60,17 @@ print(Norm_of_matrix)
 
 ### 1-Norm of a Matrix
 
-![](norm1.png)
+![Screenshot 2024-10-08 084019](https://github.com/user-attachments/assets/6a48426a-757e-447a-84e1-6f12ff2629f3)
+
 
 ### 2-Norm of a Matrix
 
-![](norm2.png)
+![Screenshot 2024-10-08 084047](https://github.com/user-attachments/assets/d4c969c9-ec92-4a51-a305-f939a3386dc4)
 
 
 ### Infinity Norm of a Matrix
 
-![](norm3.png)
+![Screenshot 2024-10-08 084059](https://github.com/user-attachments/assets/54bc5d8f-cf27-4c3b-8fc4-7db435fd6f37)
 
 
 ## Result
